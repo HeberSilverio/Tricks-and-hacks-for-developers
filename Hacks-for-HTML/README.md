@@ -26,6 +26,5 @@ Quando recebemos ou enviamos um link de um site (no whatsapp por exemplo), é ge
 
     <meta property="og:image" content="url_da_imagem">
 |--|--|
-|Com isso seus links ficarão mais atraentes e chamativos!|
-![Example](https://uploaddeimagens.com.br/images/004/650/354/thumb/image-link-compartilhavel.JPG?1698513036)|
+|Com isso seus links ficarão mais atraentes e chamativos! | ![Example](https://uploaddeimagens.com.br/images/004/650/354/thumb/image-link-compartilhavel.JPG?1698513036) |
 
