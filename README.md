@@ -13,7 +13,7 @@ Aqui você também encontra:
 
 <h2 align="left"> 📋 Índice</h2>
  
-* Hacks-for-bootstrap - <a href="https://github.com/BoyFlash/Tricks-and-hacks-for-developers/tree/main/Hacks-for-Bootstrap">Macetes para bootstrap</a> 
+* Hacks-for-bootstrap - <a href="https://github.com/HeberSilverio/Tricks-and-hacks-for-developers/blob/master/Hacks-for-Bootstrap/README.md">Macetes para bootstrap</a> 
 * Hacks-for-HTML - <a href="https://github.com/BoyFlash/Tricks-and-hacks-for-developers/blob/main/Hacks-for-HTML/README.md">Truques para construir HTML no VSCode</a> 
 * Hacks-for-VSCode - <a href="https://github.com/BoyFlash/Tricks-and-hacks-for-developers/blob/main/Hacks-for-VSCode/README.md">Teclas de atalhos para VSCode</a> 
 * Print de questões e provas  <a href="">Cursos da DIO</a>
