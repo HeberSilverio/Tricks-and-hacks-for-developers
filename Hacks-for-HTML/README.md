@@ -28,3 +28,14 @@ Quando recebemos ou enviamos um link de um site (no whatsapp por exemplo), é ge
 |  |  |
 |-------|--------|
 | Com isso seus links ficarão mais atraentes e chamativos! | ![Example](https://uploaddeimagens.com.br/images/004/650/354/thumb/image-link-compartilhavel.JPG?1698513036) |
+
+
+
+#### Incluindo caracteres especiais em HTML
+| Personagem literal | Equivalente de referência de caractere |
+|--------------------|--------------------------------------|
+| <                  | &lt;                                 |
+| >                  | &gt;                                 |
+| "                  | &quot;                               |
+| '                  | &apos;                               |
+| &                  | &amp;                                |
