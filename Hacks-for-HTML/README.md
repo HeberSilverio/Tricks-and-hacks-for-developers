@@ -32,18 +32,11 @@ Quando recebemos ou enviamos um link de um site (no whatsapp por exemplo), é ge
 
 
 #### Incluindo caracteres especiais em HTML
-| Personagem literal | Equivalente de referência de caractere | -- |
+| Personagem literal | Equivalente de referência de caractere |  |
 |--------------------|--------------------------------------|--------------------|
 | <                  | &lt;                                 | &amp;lt;           |
-| >                  | &gt;                                 |
-| "                  | &quot;                               |
-| '                  | &apos;                               |
-| &                  | &amp;                                |
+| >                  | &gt;                                 |&amp;gt;           |
+| "                  | &quot;                               |&amp;quot;         |
+| '                  | &apos;                               | &amp;apos;         |
+| &                  | &amp;                                | &amp;amp;          |
 
-| Personagem literal | Equivalente de referência de caractere |
-|--------------------|--------------------------------------|
-| <                  | &amp;lt;                             |
-| >                  | &amp;gt;                             |
-| "                  | &amp;quot;                           |
-| '                  | &amp;apos;                           |
-| &                  | &amp;amp;                            |
