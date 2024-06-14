@@ -35,8 +35,13 @@ Quando recebemos ou enviamos um link de um site (no whatsapp por exemplo), é ge
 | Personagem literal | Equivalente de referência de caractere |  |
 |--------------------|--------------------------------------|--------------------|
 | <                  | &lt;                                 | &amp;lt;           |
-| >                  | &gt;                                 |&amp;gt;           |
-| "                  | &quot;                               |&amp;quot;         |
+| >                  | &gt;                                 | &amp;gt;           |
+| "                  | &quot;                               | &amp;quot;         |
 | '                  | &apos;                               | &amp;apos;         |
 | &                  | &amp;                                | &amp;amp;          |
-
+| \                  | &#92;                               | &amp;#92;          |
+| /                  | &#47;                               | &amp;#47;          |
+| *                  | &#42;                               | &amp;#42;          |
+| |                  | &#124;                              | &amp;#124;         |
+| ?                  | &#63;                               | &amp;#63;          |
+| :                  | &#58;                               | &amp;#58;          |
