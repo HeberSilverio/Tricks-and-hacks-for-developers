@@ -45,3 +45,11 @@ Quando recebemos ou enviamos um link de um site (no whatsapp por exemplo), é ge
 | |                  | &#124;                              | &amp;#124;         |
 | ?                  | &#63;                               | &amp;#63;          |
 | :                  | &#58;                               | &amp;#58;          |
+|®                  |register                               | &amp;reg;|
+|©                  |copyright                              | &amp;copy;|
+
+
+#### Sites de refência para HTML
+
+-  <p> <a href="https://htmlreference.io/">htmlreference.io</a> - é um guia gratuito de HTML. Possui todos os elementos e atributos.</p>
+-  <p> <a href="https://htmlcheatsheet.com/">CSS Cheat Sheet</a> - Ferramas gerados de CSS, HTML e Color Picker, Characters, Attributes, Create Table, Create Image, Create List - A melhor folha de dicas interativa</p>
