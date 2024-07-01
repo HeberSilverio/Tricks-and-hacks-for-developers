@@ -6,7 +6,8 @@
 
 | Comando                                                     | O que faz?                  | Observação                     |
 | ----------------------------------------------------------- | --------------------------- | ------------------------------------ |
-| `header+main+nav+aside`                                     | Cria um seções              |                                      |
+| ```bash 
+header+main+nav+aside```                                     | Cria um seções              |                                      |
 | `div.text+div.text`                                         | Cria div e classes          |                                      |
 | `p>lorem15`                                                 | Cria parágrafo com lorem    |                                      |
 | `ul>li*5>lorem3`                                            | Cria lista com lorem        |                                      |
