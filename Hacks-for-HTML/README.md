@@ -45,8 +45,8 @@ Quando recebemos ou enviamos um link de um site (no whatsapp por exemplo), é ge
 | |                  | &#124;                              | &amp;#124;         |
 | ?                  | &#63;                               | &amp;#63;          |
 | :                  | &#58;                               | &amp;#58;          |
-|®                  |register                               | &amp;reg;|
-|©                  |copyright                              | &amp;copy;|
+|®                  |&reg;                              | &amp;reg;|
+|©                  |&copy;                            | &amp;copy;|
 
 
 #### Sites de refência para HTML
