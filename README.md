@@ -8,6 +8,7 @@ Aqui você também encontra:
 
 ###### Questões e provas
 ###### Atalhos e macetes que facilitam o desenvolvimento
+###### [Cursos gratuítos e estruturados]()
 
 <img src="https://img.shields.io/badge/issue-opened">
 
@@ -86,3 +87,7 @@ Então, você pode executar `nvm use` para ativar a mesma versão do Node usada 
 ## Licença
 
 Este projeto usa a licença WTFPL. Consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+
+### Cursos gratuítos e estruturados
+Curso completo para te levar de front-end a full-stack: [Odin](https://www.theodinproject.com/dashboard)
