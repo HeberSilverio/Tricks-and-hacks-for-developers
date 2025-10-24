@@ -1,156 +1,93 @@
-🧠 Anamnese – Criação de Nome para Empresa de Tecnologia / Inteligência Artificial
-🔹 1. Sobre a Empresa
+<h1 align="center"> Truques && Macetes for desenvolvedores</h1>
 
-## Qual é o propósito principal da sua empresa?
-Transformar empresas por meio da aplicação prática da Inteligência Artificial, tornando operações mais eficientes, lucrativas e escaláveis. Nosso propósito é liberar o potencial humano ao automatizar o que é repetitivo e permitir que as pessoas foquem no que realmente gera valor.
+Minhas anotações e sacadas dos cursos que fiz durante a carreira
 
-1. Quem somos
-- A Insight ajuda empresas a reduzir custos, aumentar a produtividade e escalar operações por meio de automatizações inteligentes com Inteligência Artificial.
-- Nosso foco é transformar processos repetitivos em soluções automatizadas, permitindo que as empresas lucrem mais gastando menos.
-- Atuamos como consultoria e implementação prática, adaptando soluções ao perfil e necessidade de cada cliente.
+O conteúdo está organizado em arquivos readme.md em cada pasta.
 
-## Quais problemas ela resolve para seus clientes?
-A Empresa resolve o excesso de tarefas manuais e gargalos operacionais que limitam o crescimento dos negócios. Reduzimos custos, eliminamos retrabalhos, aumentamos produtividade e melhoramos a experiência do cliente por meio de automações inteligentes que operam 24/7.
+Aqui você também encontra:
 
-2. O que oferecemos
-- Serviços principais:
-    - Diagnóstico de Processos Automatizáveis
-    - Identificamos onde sua empresa pode ganhar eficiência com automação.
-    - MVP Rápido com IA Generativa
-    - Prototipagem ágil usando LangChain para validar ideias com velocidade.
-    - Atendimentos automatizados em WhatsApp e redes sociais
-    - Canais operando 24/7 sem interrupção, aumentando a satisfação do cliente e reduzindo custos de equipe.
-    - Automação Inteligente
-    - Escalamos sua operação com custos controlados e eficiência no atendimento, vendas e gestão.
+###### Questões e provas
+###### Atalhos e macetes que facilitam o desenvolvimento
+###### [Cursos gratuítos e estruturados]()
 
-## Como você descreveria o tipo de soluções que oferece (ex: automação, IA aplicada, consultoria, sistemas personalizados, etc)?
-Oferecemos automação com Inteligência Artificial, unindo consultoria estratégica e implementação prática. Criamos sistemas personalizados, assistentes virtuais, MVPs rápidos com IA generativa (LangChain) e atendimentos automatizados em canais como WhatsApp e redes sociais. Cada projeto é desenhado sob medida, integrando IA aos processos e sistemas já existentes do cliente.
+<img src="https://img.shields.io/badge/issue-opened">
 
-3. Benefícios para a sua empresa
-- Aumento de Lucro: respostas mais rápidas geram mais vendas.
-- Redução de Custos: menos erros humanos e retrabalho, mais eficiência operacional.
-- Mais Produtividade: tarefas repetitivas são automatizadas, liberando tempo do time.
-
-## A empresa já existe ou está sendo criada do zero?
-A Empresa já está em operação, com clientes ativos e cases de sucesso nas áreas de atendimento automatizado, marketing e produtividade empresarial.
-
-## Há algum produto, serviço ou tecnologia carro-chefe?
-1. Case 1 – Agente de atendimento por whatsapp para Clínica Odontológica (Confirmação e Engajamento com Pacientes)
-2. Case 2 – Agente de Design (Criação de Criativos para Redes Sociais)
-3. Case 3 - Agente SDR para whatsapp para levantamento de score
-4. Case 4 - Agente de atendimento por whatsapp para salão de beleza (Atendimento e Agendamento Automatizado)
-
-5. Como entregamos valor
-    - Assistente de Funcionários: informações rápidas e acessíveis para equipes internas.
-    - Relatórios Automatizados: acompanhamento de métricas financeiras, recursos e produtividade.
-    - Marketing Inteligente: segmentação e envio automático de mensagens em canais como WhatsApp.
-    - Vendas Automatizadas: funil completo – da prospecção ao pós-venda – sem depender de esforço manual.
-    - Automação sob Medida: soluções personalizadas para o seu negócio.
+<h2 align="left"> 📋 Índice</h2>
+ 
+* Hacks-for-bootstrap - <a href="https://github.com/HeberSilverio/Tricks-and-hacks-for-developers/blob/master/Hacks-for-Bootstrap/README.md">Macetes para bootstrap</a> 
+* Hacks-for-HTML - <a href="https://github.com/HeberSilverio/Tricks-and-hacks-for-developers/tree/master/Hacks-for-HTML">Truques para construir HTML no VSCode</a> 
+* Hacks-for-VSCode - <a href="https://github.com/HeberSilverio/Tricks-and-hacks-for-developers/tree/master/Hacks-for-VSCode">Teclas de atalhos para VSCode</a> 
+* Print de questões e provas  <a href="">Cursos da DIO</a>
 
 
-🔹 2. Público-Alvo e Mercado
+<h2 align="center">Ferramentas</h2>
 
-## Quem é o público principal (ex: empresas, startups, indústrias, varejo, governo, consumidores finais)?
-BONS CLIENTES:
-- Empresas com mais 3 funcionários que faturam entre 50k e 100k, que possuem processos repetitivos em atendimento, marketing e gestão e que desejam escalar operações sem aumentar custos.
+<p align="center">Boilerplate front-end para projetos de teste/estudos.</p>
 
-## Em qual mercado ou nicho a empresa vai atuar?
-- Atuamos no mercado de **automação inteligente e aplicações práticas de Inteligência Artificial**, oferecendo soluções para empresas de serviços, clínicas, agências, negócios digitais e pequenas/médias empresas em crescimento. Nosso nicho é a **integração de IA generativa e automação de processos empresariais**, unindo tecnologia e consultoria estratégica para gerar resultados reais.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&color=orange&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&color=0191d5">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/github/v/release/desenvolvweb/basic-front-boilerplate?style=flat">
+</p>
+<hr />
 
-## Onde o público se encontra (região, tipo de cliente, perfil decisor)?
-- Atendemos **empresas em todo o Brasil**, com operação 100% remota e personalizada. Nosso público está concentrado em **gestores, empreendedores e líderes de áreas operacionais ou de marketing**, que tomam decisões estratégicas e buscam soluções práticas para reduzir custos e aumentar produtividade.
+## Pré-requisitos
 
-## Como você quer que o público perceba a marca (ex: inovadora, confiável, sofisticada, acessível, disruptiva, humana)?
-- Queremos que a Empresa seja percebida como uma empresa **confiável, sofisticada, acessível e disruptiva** — uma parceira estratégica que une credibilidade técnica e inovação prática, tornando o uso da Inteligência Artificial simples, eficiente e transformador.
+- Node.js
+- npm
 
-🔹 3. Identidade e Posicionamento
+## Uso
 
-## Se sua empresa fosse uma pessoa, como ela seria (3 adjetivos)?
-- Visionária, confiável e inovadora.  
-- Uma pessoa que une inteligência técnica com empatia e propósito — alguém que resolve problemas com rápidos, estratégia e criatividade.
+O BFB usa [Parcel](https://parceljs.org/), uma build tool rápida, eficiente e que não precisa de configuração (_zero configuration_).
 
-## Quais valores são inegociáveis para essa marca (ex: ética, inovação, precisão, transparência, criatividade)?
-- Ética, transparência, eficiência, inovação prática e parceria genuína com o cliente.  
-- A Insight acredita que tecnologia só faz sentido quando gera impacto real e sustentável.
+Em função disso, oferece suporte a CSS e JavaScript modernos, Sass, e todas as outras modernidades/comonidades da ferramenta.
 
-## Qual é o tom de voz ideal da marca?
-- Futurista, acessível e inspirador.  
-- Queremos comunicar tecnologia de ponta sem jargões técnicos desnecessários — de forma clara, humana e envolvente, mostrando que IA é uma ferramenta para empoderar, não afastar.
+### Comandos
 
-## Quais são as referências de marcas que você admira no mesmo segmento (nacionais ou internacionais)?
-- https://www.leftclick.ai/
+| Comando         | O que faz?                  | Observação                     |
+| --------------- | --------------------------- | ------------------------------ |
+| `npm install`   | Instala pacotes necessários | **Execute isso primeiro!**     |
+| `npm start`     | Inicia o desenvolvimento    | Acesse `http://localhost:1234` |
+| `npm run build` | Faz build do site           | Resultado na pasta `dist`      |
 
-## Como você quer que sua empresa se diferencie das demais de tecnologia e IA?
-- A Insight se diferencia por **unir consultoria estratégica com implementação prática**, entregando soluções personalizadas e funcionais — não apenas promessas tecnológicas.  
-- Enquanto muitas empresas vendem complexidade, a Insight entrega **simplicidade inteligente**, tornando a automação algo tangível, rápido e escalável para qualquer negócio.
+## Considerações
 
-🔹 4. Inspirações e Direcionamento Criativo
+Basicamente, depois da instalação inicial de pacotes, só é preciso executar `npm start` e começar a mexer no projeto como se não houvesse amanhã.
 
-# Você tem alguma preferência de idioma para o nome (português, inglês, latim, híbrido, inventado)?
-- Sonoridade de letras ou palavras em Inglês. 
-- uso de repetição de vogais como em google.
-- Letras separadas que expressão significados com (N - muitos, X - Exponencial)
-- O nome pode estar ligado com as palavras em Inglês que empresam: caixas de ferramentas, robo, Inteligência Artificial, fluxo ou flow.
-- Expresse que somos uma startup de tecnologia que ofecere ferramentas para automatizar processos com IA
-- A letra da logo,  um pouco quadrada que transmite ideia de robô, porém com contornos redondo com uma versão mais moderna como da logo da Spacex nesse link:
-https://logos-world.net/spacex-logo/
+Parcel oferece _hot reload_: conforme alterações de código são feitas, ele faz rebuild automático dos arquivos alterados e atualiza o navegador.
+
+O arquivo `style/index.scss` carrega todos os demais (partials), então, sempre que criar um novo arquivo na estrutura, lembre-se de importá-lo -- dentro dos conceitos da arquitetura ITCSS.
+
+> 💡 **Não sabe ITCSS?**<br>
+> Caso não saiba o que é ou como usar ITCSS, conheça nosso curso para aprender mais sobre como estruturar seu CSS de maneira profissional.<br>
+> Para saber mais, [cadastre seu e-mail na lista preferencial](https://www.cssalemdosensocomum.com.br/) para ser avisado quando abriremos uma nova turma.
+
+## Tweaks
+
+### CSS Cascade Layers
+
+Caso queira usar [CSS Cascade Layers](https://css-tricks.com/css-cascade-layers/), o plugin [PostCSS Cascade Layers](https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-cascade-layers) já está disponível no BFB.
+
+Para ativá-lo, adicione o seguinte código ao arquivo `.postcssrc` (dentro do nó `plugins`):
+
+`"@csstools/postcss-cascade-layers": true,`
+
+## Solução de Problemas
+
+### Pacotes Node não estão sendo instalados
+
+Caso aconteçam erros ao tentar instalar os pacotes Node, pode ser algo relacionado à compatibilidade.
+
+Recomendamos o uso do [nvm](https://github.com/nvm-sh/nvm) para controlar as versões do Node.
+
+Então, você pode executar `nvm use` para ativar a mesma versão do Node usada para desenvolver o BFB.
+
+## Licença
+
+Este projeto usa a licença WTFPL. Consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 
-Caixa de ferramentas com bot - Toolbox with a bot
-fluxo com bot - flow with bot
-N-ToolBox
-ToolBox-AI
-ToolBoxBot
-BoxToolFlux
-BoxToolBot
-Btoolbox
-X-Tool
-HX-ToolBox
-BotTool-X
-BotTool-N
-Tool-N-Box
-
-
-## Prefere nomes curtos e modernos ou conceituais e simbólicos?
-- Nome curto e que facilite criar dominios curtos ou só com as letras iniciais das palavras
-
-## Que tipo de sensação o nome deve transmitir (ex: confiança, futuro, inovação, poder, simplicidade, conexão)?
-- Expresse que somos uma startup de tecnologia que ofecere ferramentas para automatizar processos com IA
-- A letra da logo,  um pouco quadrada que transmite ideia de robô, porém com contornos redondo com uma versão mais moderna como da logo da Spacex nesse link:
-https://logos-world.net/spacex-logo/
-
-## Há alguma palavra, termo ou conceito que você gostaria de incluir ou evitar?
-
-## Há algum significado oculto ou simbologia que você gostaria que o nome carregasse (ex: luz, caminho, mente, dados, futuro)?
-- Gosto muito do simbolo do infinito que é o número oito deitado  
-
-## Deseja que o nome soe mais corporativo (voltado a grandes empresas) ou criativo/startup (mais leve e ousado)?
-- criativo/startup (mais leve e ousado)
-
-- Referência de agencia americana: https://www.leftclick.ai/
-
-🔹 5. Aplicações Futuras
-
-## Pretende atuar em nível nacional, internacional ou ambos?
-- ambos
-
-# O nome deve funcionar bem como domínio (.com / .com.br)?
-- ambos
-
-## Há planos de expansão para outros tipos de tecnologia além da IA?
-- porque enquanto os produtos envolvem IA
-
-## Deseja que o nome tenha potencial para virar marca guarda-chuva (para produtos ou serviços derivados)?
-- Sim
-
-🔹 6. Sentimento Final
-
-## Que mensagem você gostaria que as pessoas sentissem ao ouvir o nome da sua empresa pela primeira vez?
-- Que sintam **admiração e curiosidade**, como se estivessem diante de algo inteligente, inovador e acessível.  
-- O nome deve transmitir a sensação de **tecnologia com propósito** — uma empresa moderna, que fala a linguagem do futuro, mas mantém proximidade e clareza.  
-- Queremos despertar a ideia de **movimento, fluxo e avanço contínuo**, mostrando que nossa inteligência artificial está a serviço da evolução dos negócios.
-
-## E o que você nunca quer que as pessoas sintam ou associem?
-- Nunca queremos que associem a marca a algo **frio, complicado, distante ou genérico**.  
-- Não somos uma empresa robótica sem identidade; somos uma marca humana e criativa que simplifica o uso da IA.  
-- Também evitamos qualquer associação com **falsas promessas tecnológicas** — a essência da empresa é entregar resultados reais, não apenas conceitos futuristas.
+### Cursos gratuítos e estruturados
+Curso completo para te levar de front-end a full-stack: [Odin](https://www.theodinproject.com/dashboard)
